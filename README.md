@@ -1,4 +1,4 @@
-# Team FRC 4079 Swerve Drive Base Template
+# FRC 4079 - Swerve Drive Template code
 
 ## Table of Contents
 
@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This repository contains the code for the FRC Team 4079's 2025 robot, named "Reefscape". The code is written in Java and is designed to run on the RoboRIO platform using WPILib. 
+This repository contains the code for the FRC Team 4079's swerve drivetrain. The code is written in Java and is designed to run on the RoboRIO platform using WPILib. 
 
 ## Dependencies
 
